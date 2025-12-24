@@ -1,0 +1,7 @@
+{
+  "name": "NovaShare - Modern File Sharing",
+  "description": "A premium, high-performance file sharing application with glassmorphism design, utilizing IndexedDB for secure local storage and seamless transfers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
